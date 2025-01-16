@@ -1,37 +1,52 @@
-# 🧬 Overview
+# Overview
+This repository is a central hub for bioinformatics tutorials, project guides, tools, and articles I've created. It houses a growing collection of resources I've developed to make bioinformatics more approachable and accessible. Whether you’re a beginner learning the basics or a researcher exploring more complex analyses, these resources are designed to help you navigate the world of bioinformatics. 
 
 
-## 🧬 Fundamentals for Bioinforamtics 
-- [Python Fundamentals For Biologists](https://github.com/evanpeikon/Python_Fundamentals_Biology): An extended guide covering both python fundamentals and data visualization fundamentals (using python) for biologists
-- [Bash Fundamentals For Bioinformatics](https://github.com/evanpeikon/bash_fundamentals): An interactive introduction to Bash for bioinformatics
-- [Math For Computational Biology](https://github.com/evanpeikon/math_for_compbio): This repository contains math tutorials I created for Bioinformatics and Computational Biology, providing a strong basis for graduate level course work in these fields.
-- [Numerical Methods & Systems Biology Toolkit](https://github.com/evanpeikon/systems_biology): This repository contains assorted functions for performing numerical methods and solving common problems in systems biology. 
+# 🧬 Programming For Bioinformatics 
+Programming is at the heart of bioinformatics. This section provides tutorials, and articles, on essential skills to help biologists build strong programming foundations and effectively apply computational methods to solve biological problems.
 
+- [Python Fundamentals For Biologists](https://github.com/evanpeikon/Python_Fundamentals_Biology): This extended guide offers a hands-on approach to learning Python, focusing on topics such as control flow, functions, data handling, and data visualization. It's tailored for biologists who want to use Python for data analysis and visualization.
+- [Bash Fundamentals For Bioinformatics](https://github.com/evanpeikon/bash_fundamentals): Learn how to navigate the command line, automate repetitive tasks, and execute bioinformatics workflows with this interactive introduction to Bash.
+- [Math For Computational Biology](https://github.com/evanpeikon/math_for_compbio): This repository provides tutorials that cover mathematical concepts foundational to bioinformatics and computational biology (including calculus, ordinary differential equations, and linear algebra), offering a solid preparation for graduate level coursework. 
 
-## 🧬 Bioinformatics Tutorials
-- [Introduction to Functional Enrichment Analysis](https://github.com/evanpeikon/functional_enrichment_analysis): A DIY guide to gene ontology, pathway, and gene set enrichment analysis
-- [From Genes to Networks: Uncovering Biological Insights through Protein-Protein Interactions](https://github.com/evanpeikon/PPI_Network_Analysis): Mapping DEGs to PPI Networks, Identifying Network Hubs and Highly Connected Proteins, and Simulating Genetic Circuits.
-- [Unraveling Gene Co-Expression Networks: Insights into Transcriptional Regulation](https://github.com/evanpeikon/co_expression_network): A DIY guide to gene co-expression network analysis
-- [BLAST - The Biological Search Engine](https://github.com/evanpeikon/BLAST): A DIY Guide To BLAST Tools For Sequence Alignment
-- [Identifying and Visualizing Marker Genes with ScanPy](https://github.com/evanpeikon/scRNA-Seq-ScanPy)
-- [An Introduction To Dynamical Systems & Markov Models](https://github.com/evanpeikon/dynamicalsys)
-- [Decoding The Viral Proteome](https://github.com/evanpeikon/viral-proteome): Decoding the herpes virus proteome and analyzing amino acid frequencies to uncover potential drug targets
-- [Amiloride in Multiple Myeloma: A Deep Dive into RNA-Seq Data Analysis](https://github.com/evanpeikon/GSE_95077): In this project, I analyzed RNA-sequencing data from the study titled "Amiloride, An Old Diuretic Drug, Is a Potential Therapeutic Agent for Multiple Myeloma" to gain a deeper understanding of Amiloride's mechanism of action and its impact on gene expression. The analysis focused on identifying differentially expressed genes and exploring their physiological roles in the context of multiple myeloma treatment.
-- [Investigating Transcriptional Changes in Alzheimer's Disease Using a 3xTg-AD Mouse Model](https://github.com/evanpeikon/GSE_161904): In this project, I present an analysis of bulk RNA-sequencing data from the 3xTg-AD mouse model, a widely used model for studying Alzheimer’s disease. The objective for this project is to investigate the molecular changes that occur in the insular cortex as the disease advances, with a focus on identifying key transcriptional regulators and pathways that contribute to cognitive decline.
-- [Exploring mutual features between the 5xFAD, 3xTG-AD, and PS3O1S Alzheimer's Disease Mouse Models](https://github.com/evanpeikon/mouse_AD_models): The purpose of this project is to explore the similarities, differences, and overlapping features—including differentially expressed genes (DEGs), Gene Ontology (GO) terms, biological pathways, and protein-protein interaction (PPI) networks—between three mutant mouse models of Alzheimer’s disease (AD).
+### Articles / Additional Resources
+- [Catching Silent Errors in Bioinformatics Code with Assert Statements](https://decodingbiology.substack.com/p/catching-silent-errors-in-bioinformatics): Discover how to use assert statements to debug and validate your code, preventing silent errors that can lead to incorrect biological interpretations.
+- [Looping Through Repetitive Tasks](https://decodingbiology.substack.com/p/looping-through-repetitive-tasks): Automating workflows is a critical skill in bioinformatics. This beginner's guide introduces command-line loops to streamline repetitive bioinformatics tasks.
 
-## 🧬 Machine Learning
-- [Evaluating Machine Learning Models: An Introduction to Resampling Methods](https://github.com/evanpeikon/machine-learning/tree/main/resampling)
-- [Evaluation Metrics For Classification Problems](https://github.com/evanpeikon/machine-learning/tree/main/Classification-Metrics)
-- [Evaluation Metrics For Regression Problems](https://github.com/evanpeikon/Machine-Learning/tree/main/Regression-metrics)
-- [Comparing Machine Learning Algorithms: Spot Checking For Regression and Classificaiton Problems](https://github.com/evanpeikon/Machine-Learning/tree/main/spot_checking)
-- [Introduction To Hyperparameter Optimization](https://github.com/evanpeikon/Machine-Learning/tree/main/hyperparameter_optimization)
+# 🧬 Bioinformatics Analysis Tutorials 
+This section contains detailed guides and DIY tutorials for performing a range of bioinformatics analyses, from functional enrichment analysis to PPI network analysis, enabling researchers to derive meaningful insights from biological data.
 
-# 🧬 Articles
-## Bioinformatics & Computational Biology
+- [Introduction to Functional Enrichment Analysis](https://github.com/evanpeikon/functional_enrichment_analysis):  A beginner-friendly guide to gene ontology, pathway, and gene set enrichment analysis. 
+- [From Genes to Networks: Uncovering Biological Insights through Protein-Protein Interactions](https://github.com/evanpeikon/PPI_Network_Analysis): This tutorial walks you through mapping DEGs to PPI networks, identifying hubs, and simulating genetic circuits to uncover biological insights.
+- [Unraveling Gene Co-Expression Networks: Insights into Transcriptional Regulation](https://github.com/evanpeikon/co_expression_network): Learn how to construct and interpret gene co-expression networks to investigate transcriptional regulation in this practical guide.
+- [BLAST - The Biological Search Engine](https://github.com/evanpeikon/BLAST): This resource covers BLAST tools for sequence alignment, offering practical examples for identifying homologous sequences.
+- [Identifying and Visualizing Marker Genes with ScanPy](https://github.com/evanpeikon/scRNA-Seq-ScanPy): A step-by-step guide to analyzing single-cell RNA-seq data and identifying marker genes using ScanPy.
 
-## Data Science & Machine 
+### Articles / Additional Resources
+- [Connecting the Dots: A Guide to Multi-Omics Data](https://decodingbiology.substack.com/p/connecting-the-dots-a-guide-to-multi): Understanding the interrelationships between genomic, epigenomic, transcriptomic, proteomic, metabolomic, phenomic, and stimulus data
+- [Understanding Mutual Information in Bioinformatics](https://decodingbiology.substack.com/p/understanding-mutual-information): A Deep Dive into Entropy, Mutual Information, and Their Application in Gene Expression Analysis
 
+# 🧬 Bioinformatics Project Walkthroughs
+This section showcases in-depth project walkthroughs, demonstrating how bioinformatics techniques can be applied to real-world research questions.
 
-## 🧬 Articles 
-##
+- [Decoding The Viral Proteome](https://github.com/evanpeikon/viral-proteome): Analyze the herpes virus proteome to uncover patterns in amino acid frequencies (beginner friendly).
+- [Amiloride in Multiple Myeloma: A Deep Dive into RNA-Seq Data Analysis](https://github.com/evanpeikon/GSE_95077): Explore RNA-seq data to investigate Amiloride's mechanism of action and its impact on gene expression in multiple myeloma treatment.
+- [Investigating Transcriptional Changes in Alzheimer's Disease Using a 3xTg-AD Mouse Model](https://github.com/evanpeikon/GSE_161904): Uncover transcriptional changes and molecular mechanisms driving Alzheimer’s disease progression in the insular cortex of 3xTG-AD mice using RNA-seq data.
+- [Exploring mutual features between the 5xFAD, 3xTG-AD, and PS3O1S Alzheimer's Disease Mouse Models](https://github.com/evanpeikon/mouse_AD_models): Explore the similarities, differences, and overlapping features—including differentially expressed genes (DEGs), Gene Ontology (GO) terms, biological pathways, and protein-protein interaction (PPI) networks—between three mutant mouse models of Alzheimer’s disease (AD).
+
+# 🧬 Systems Biology
+Systems biology focuses on understanding complex biological networks. This section provides tools and tutorials to model dynamic systems and simulate biological processes.
+
+- [Numerical Methods & Systems Biology Toolkit](https://github.com/evanpeikon/systems_biology): A collection of numerical methods and tools for solving common systems biology problems, from ordinary differential equations to parameter optimization.
+- [An Introduction To Dynamical Systems & Markov Models](https://github.com/evanpeikon/dynamicalsys): A primer on modeling biological systems using dynamical systems and Markov models, with practical examples.
+- [Understanding the SIR Model: A Tool for Modeling Infectious Diseases](https://decodingbiology.substack.com/p/understanding-the-sir-model-a-tool): Learn how to use the SIR model to simulate and understand the spread of infectious diseases.
+- [The Biology Network](https://decodingbiology.substack.com/p/the-biology-network): Learn how static and dynamic network models can be used simulate and analyze biological systems, from metabolic pathways to regulatory circuits.
+
+# 🧬 Machine Learning
+Machine learning offers powerful tools for analyzing and interpreting biological data. This section provides resources to evaluate models, optimize performance, and compare algorithms for bioinformatics applications.
+
+- [Evaluating Machine Learning Models: An Introduction to Resampling Methods](https://github.com/evanpeikon/machine-learning/tree/main/resampling): Learn how to use resampling methods like cross-validation to assess model performance.
+- [Evaluation Metrics For Classification Problems](https://github.com/evanpeikon/machine-learning/tree/main/Classification-Metrics):  A comprehensive guide to metrics for evaluating classification models. 
+- [Evaluation Metrics For Regression Problems](https://github.com/evanpeikon/Machine-Learning/tree/main/Regression-metrics):  A comprehensive guide to metrics for evaluating regression models. 
+- [Comparing Machine Learning Algorithms: Spot Checking For Regression and Classificaiton Problems](https://github.com/evanpeikon/Machine-Learning/tree/main/spot_checking): Learn how to spot-check regression and classification models to identify the best-performing algorithm for your data.
+- [Introduction To Hyperparameter Optimization](https://github.com/evanpeikon/Machine-Learning/tree/main/hyperparameter_optimization): Master hyperparameter tuning to optimize model performance and achieve better results.
