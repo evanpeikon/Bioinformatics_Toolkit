@@ -1,5 +1,6 @@
 # 🧬 Overview
 
+
 ## 🧬 Fundamentals for Bioinforamtics 
 - [Python Fundamentals For Biologists](https://github.com/evanpeikon/Python_Fundamentals_Biology): An extended guide covering both python fundamentals and data visualization fundamentals (using python) for biologists
 - [Bash Fundamentals For Bioinformatics](https://github.com/evanpeikon/bash_fundamentals): An interactive introduction to Bash for bioinformatics
@@ -25,6 +26,11 @@
 - [Evaluation Metrics For Regression Problems](https://github.com/evanpeikon/Machine-Learning/tree/main/Regression-metrics)
 - [Comparing Machine Learning Algorithms: Spot Checking For Regression and Classificaiton Problems](https://github.com/evanpeikon/Machine-Learning/tree/main/spot_checking)
 - [Introduction To Hyperparameter Optimization](https://github.com/evanpeikon/Machine-Learning/tree/main/hyperparameter_optimization)
+
+# 🧬 Articles
+## Bioinformatics & Computational Biology
+
+## Data Science & Machine 
 
 
 ## 🧬 Articles 
