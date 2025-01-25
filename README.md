@@ -7,6 +7,7 @@ Programming is at the heart of bioinformatics. This section provides tutorials, 
 
 - [Python Fundamentals For Biologists](https://github.com/evanpeikon/Python_Fundamentals_Biology): This extended guide offers a hands-on approach to learning Python, focusing on topics such as control flow, functions, data handling, and data visualization. It's tailored for biologists who want to use Python for data analysis and visualization.
 - [Bash Fundamentals For Bioinformatics](https://github.com/evanpeikon/bash_fundamentals): Learn how to navigate the command line, automate repetitive tasks, and execute bioinformatics workflows with this interactive introduction to Bash.
+- [R Fundamentals for Biologists](https://github.com/evanpeikon/R_Fundamentals_Biologists): This guide offers a hands-on approach to learning R, focusing on topics such as control flow, functions, data handling, and data visualization. It's a companion piece to Python Fundamentals For Biologists, helping coders familiar with Python pick up R basics in 60-minutes or less. 
 - [Math For Computational Biology](https://github.com/evanpeikon/math_for_compbio): This repository provides tutorials that cover mathematical concepts foundational to bioinformatics and computational biology (including calculus, ordinary differential equations, and linear algebra), offering a solid preparation for graduate level coursework. 
 
 ### Articles / Additional Resources
