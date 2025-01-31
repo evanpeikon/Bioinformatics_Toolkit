@@ -31,7 +31,7 @@ This section contains detailed guides and DIY tutorials for performing a range o
 This section showcases in-depth project walkthroughs, demonstrating how bioinformatics techniques can be applied to real-world research questions.
 
 - [Decoding The Viral Proteome](https://github.com/evanpeikon/viral-proteome): Analyze the herpes virus proteome to uncover patterns in amino acid frequencies (beginner friendly).
-- [Amiloride in Multiple Myeloma: A Deep Dive into RNA-Seq Data Analysis](https://github.com/evanpeikon/GSE_95077): Explore RNA-seq data to investigate Amiloride's mechanism of action and its impact on gene expression in multiple myeloma treatment.
+- [Uncovering Amiloride's Mechanisms of Action in Multiple Myeloma: A Bioinformatics Approach](https://github.com/evanpeikon/GSE_95077): This project investigates the mechanisms by which amiloride induces cell death in multiple myeloma cells through comprehensive bioinformatics analyses.
 - [Investigating Transcriptional Changes in Alzheimer's Disease Using a 3xTg-AD Mouse Model](https://github.com/evanpeikon/GSE_161904): Uncover transcriptional changes and molecular mechanisms driving Alzheimer’s disease progression in the insular cortex of 3xTG-AD mice using RNA-seq data.
 - [Exploring mutual features between the 5xFAD, 3xTG-AD, and PS3O1S Alzheimer's Disease Mouse Models](https://github.com/evanpeikon/mouse_AD_models): Explore the similarities, differences, and overlapping features—including differentially expressed genes (DEGs), Gene Ontology (GO) terms, biological pathways, and protein-protein interaction (PPI) networks—between three mutant mouse models of Alzheimer’s disease (AD).
 
