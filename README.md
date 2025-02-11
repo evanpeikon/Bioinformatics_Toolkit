@@ -43,7 +43,8 @@ Systems biology focuses on understanding complex biological networks. This secti
 - [An Introduction To Dynamical Systems & Markov Models](https://github.com/evanpeikon/dynamicalsys): A primer on modeling biological systems using dynamical systems and Markov models, with practical examples.
 - [Understanding the SIR Model: A Tool for Modeling Infectious Diseases](https://decodingbiology.substack.com/p/understanding-the-sir-model-a-tool): Learn how to use the SIR model to simulate and understand the spread of infectious diseases.
 - [The Biology Network](https://decodingbiology.substack.com/p/the-biology-network): Learn how static and dynamic network models can be used simulate and analyze biological systems, from metabolic pathways to regulatory circuits.
-- [Leveraging Network Analysis For Drug Target Discovery](https://decodingbiology.substack.com/p/leveraging-network-analysis-for-drug): Explore the role of network analysis in identifying potential drug targets. 
+- [Leveraging Network Analysis For Drug Target Discovery](https://decodingbiology.substack.com/p/leveraging-network-analysis-for-drug): Explore the role of network analysis in identifying potential drug targets.
+- [Modeling Predator-Prey Dynamics](https://decodingbiology.substack.com/p/modeling-predator-prey-dynamics): Learn how to use the Lotka-Volterra model to understanding the dynamic interactions between species within an ecosystem. 
 
 # 🧬 Machine Learning
 Machine learning offers powerful tools for analyzing and interpreting biological data. This section provides resources to evaluate models, optimize performance, and compare algorithms for bioinformatics applications.
