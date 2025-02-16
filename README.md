@@ -49,7 +49,7 @@ Systems biology focuses on understanding complex biological networks. This secti
 # 🧬 Machine Learning
 Machine learning offers powerful tools for analyzing and interpreting biological data. This section provides resources to evaluate models, optimize performance, and compare algorithms for bioinformatics applications.
 
-- [Evaluating Machine Learning Models: An Introduction to Resampling Methods](https://github.com/evanpeikon/machine-learning/tree/main/resampling): Learn how to use resampling methods like cross-validation to assess model performance.
+- [Evaluating Machine Learning Models In Biology](https://github.com/evanpeikon/Evaluating_ML_Biology/tree/main): A biotechnologist's guide to evaluating machine learning algorithms and using resampling methods like cross-validation to assess model performance (with practical examples). 
 - [Evaluation Metrics For Classification Problems](https://github.com/evanpeikon/machine-learning/tree/main/Classification-Metrics):  A comprehensive guide to metrics for evaluating classification models. 
 - [Evaluation Metrics For Regression Problems](https://github.com/evanpeikon/Machine-Learning/tree/main/Regression-metrics):  A comprehensive guide to metrics for evaluating regression models. 
 - [Comparing Machine Learning Algorithms: Spot Checking For Regression and Classificaiton Problems](https://github.com/evanpeikon/Machine-Learning/tree/main/spot_checking): Learn how to spot-check regression and classification models to identify the best-performing algorithm for your data.
