@@ -36,6 +36,11 @@ This section showcases in-depth project walkthroughs, demonstrating how bioinfor
 - [Investigating Transcriptional Changes in Alzheimer's Disease Using a 3xTg-AD Mouse Model](https://github.com/evanpeikon/GSE_161904): Uncover transcriptional changes and molecular mechanisms driving Alzheimer’s disease progression in the insular cortex of 3xTG-AD mice using RNA-seq data.
 - [Exploring mutual features between the 5xFAD, 3xTG-AD, and PS3O1S Alzheimer's Disease Mouse Models](https://github.com/evanpeikon/mouse_AD_models): Explore the similarities, differences, and overlapping features—including differentially expressed genes (DEGs), Gene Ontology (GO) terms, biological pathways, and protein-protein interaction (PPI) networks—between three mutant mouse models of Alzheimer’s disease (AD).
 
+# 🧬 Bioinformatics Tools and Packages
+This section showcases bioinformatics analysis tools and packages for streamlining data processing, analysis, and visualization. 
+
+- [SmallSeqFlow](https://github.com/evanpeikon/SmallSeqFlow): A streamlined, notebook-based RNA-seq analysis pipeline optimized for small-sample studies.
+
 # 🧬 Systems Biology
 Systems biology focuses on understanding complex biological networks. This section provides tools and tutorials to model dynamic systems and simulate biological processes.
 
