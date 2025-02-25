@@ -27,6 +27,7 @@ This section contains detailed guides and DIY tutorials for performing a range o
 ### Articles / Additional Resources
 - [Connecting the Dots: A Guide to Multi-Omics Data](https://decodingbiology.substack.com/p/connecting-the-dots-a-guide-to-multi): Understanding the interrelationships between genomic, epigenomic, transcriptomic, proteomic, metabolomic, phenomic, and stimulus data
 - [Understanding Mutual Information in Bioinformatics](https://decodingbiology.substack.com/p/understanding-mutual-information): A Deep Dive into Entropy, Mutual Information, and Their Application in Gene Expression Analysis
+- [Multi-Omics Analysis Unveils the Hidden Patterns of Gene Expression Control](https://decodingbiology.substack.com/p/multi-omics-analysis-unveils-the): Exploring cell's regulatory logic, revealing how organisms achieve precise control over their molecular machinery.
 
 # 🧬 Bioinformatics Project Walkthroughs
 This section showcases in-depth project walkthroughs, demonstrating how bioinformatics techniques can be applied to real-world research questions.
