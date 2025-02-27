@@ -41,6 +41,7 @@ This section showcases in-depth project walkthroughs, demonstrating how bioinfor
 This section showcases bioinformatics analysis tools and packages for streamlining data processing, analysis, and visualization. 
 
 - [SmallSeqFlow](https://github.com/evanpeikon/SmallSeqFlow): A streamlined, notebook-based RNA-seq analysis pipeline optimized for small-sample studies.
+- [PhysioNexus](https://github.com/evanpeikon/PhysioNexus): PhysioNexus maps complex cause-and-effect relationships between time-series physiological variables using Granger causality to transform data into interpretable networks of system interactions.
 
 # 🧬 Systems Biology
 Systems biology focuses on understanding complex biological networks. This section provides tools and tutorials to model dynamic systems and simulate biological processes.
