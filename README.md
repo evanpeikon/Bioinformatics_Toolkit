@@ -14,6 +14,7 @@ Programming is at the heart of bioinformatics. This section provides tutorials, 
 - [Catching Silent Errors in Bioinformatics Code with Assert Statements](https://decodingbiology.substack.com/p/catching-silent-errors-in-bioinformatics): Discover how to use assert statements to debug and validate your code, preventing silent errors that can lead to incorrect biological interpretations.
 - [Unit Testing in Bioinformatics: Why It Matters and When to Use It](https://decodingbiology.substack.com/p/unit-testing-in-bioinformatics-why): LEarn to write modular, well-defind, pieces of code that can be verfied and tested before being integrating it into the larger system.
 - [Looping Through Repetitive Tasks](https://decodingbiology.substack.com/p/looping-through-repetitive-tasks): Automating workflows is a critical skill in bioinformatics. This beginner's guide introduces command-line loops to streamline repetitive bioinformatics tasks.
+- [Go On, Git!](https://decodingbiology.substack.com/p/go-on-git): An introduction to version control with Git for bioinformatics.
 
 # 🧬 Bioinformatics Analysis Tutorials 
 This section contains detailed guides and DIY tutorials for performing a range of bioinformatics analyses, from functional enrichment analysis to PPI network analysis, enabling researchers to derive meaningful insights from biological data.
