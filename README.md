@@ -44,7 +44,7 @@ This section showcases bioinformatics analysis tools and packages for streamlini
 - [SmallSeqFlow](https://github.com/evanpeikon/SmallSeqFlow): A streamlined, notebook-based RNA-seq analysis pipeline optimized for small-sample studies.
 - [PhysioNexus](https://github.com/evanpeikon/PhysioNexus): PhysioNexus maps complex cause-and-effect relationships between time-series physiological variables using Granger causality to transform data into interpretable networks of system interactions.
 
-# 🧬 Systems Biology
+# 🧬 Systems Biology & Metabolic Engineering
 Systems biology focuses on understanding complex biological networks. This section provides tools and tutorials to model dynamic systems and simulate biological processes.
 
 - [Numerical Methods & Systems Biology Toolkit](https://github.com/evanpeikon/systems_biology): A collection of numerical methods and tools for solving common systems biology problems, from ordinary differential equations to parameter optimization.
@@ -52,7 +52,8 @@ Systems biology focuses on understanding complex biological networks. This secti
 - [Understanding the SIR Model: A Tool for Modeling Infectious Diseases](https://decodingbiology.substack.com/p/understanding-the-sir-model-a-tool): Learn how to use the SIR model to simulate and understand the spread of infectious diseases.
 - [The Biology Network](https://decodingbiology.substack.com/p/the-biology-network): Learn how static and dynamic network models can be used simulate and analyze biological systems, from metabolic pathways to regulatory circuits.
 - [Leveraging Network Analysis For Drug Target Discovery](https://decodingbiology.substack.com/p/leveraging-network-analysis-for-drug): Explore the role of network analysis in identifying potential drug targets.
-- [Modeling Predator-Prey Dynamics](https://decodingbiology.substack.com/p/modeling-predator-prey-dynamics): Learn how to use the Lotka-Volterra model to understanding the dynamic interactions between species within an ecosystem. 
+- [Modeling Predator-Prey Dynamics](https://decodingbiology.substack.com/p/modeling-predator-prey-dynamics): Learn how to use the Lotka-Volterra model to understanding the dynamic interactions between species within an ecosystem.
+- [Bistability and Hysteresis in Biological Systems](https://decodingbiology.substack.com/p/bistability-and-hysteresis-in-biological): Learn about the concepts of bistability and hysteresis, and their practical relevance in modeling cellular behavior. 
 
 # 🧬 Machine Learning
 Machine learning offers powerful tools for analyzing and interpreting biological data. This section provides resources to evaluate models, optimize performance, and compare algorithms for bioinformatics applications.
