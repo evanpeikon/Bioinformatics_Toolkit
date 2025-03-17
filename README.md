@@ -1,6 +1,13 @@
 # Overview
-This repository is a central hub for bioinformatics tutorials, project guides, tools, and articles I've created. It houses a growing collection of resources I've developed to make bioinformatics more approachable and accessible. Whether you’re a beginner learning the basics or a researcher exploring more complex analyses, these resources are designed to help you navigate the world of bioinformatics. 
+This repository is a central hub for bioinformatics tutorials, project guides, tools, and articles I've created. It houses a growing collection of resources I've developed to make bioinformatics more approachable and accessible. Whether you’re a beginner learning the basics or a researcher exploring more complex analyses, these resources are designed to help you navigate the world of bioinformatics, computational biology, and systems biology. 
 
+This repository is broken into six sections sections:
+- 1. Programming For Bioinformatics: This section provides tutorials and articles on essential skills to help biologists build strong programming foundations and effectively apply computational methods to solve biological problems.
+- 2. Bioinformatics Analysis Tutorials: This section contains detailed guides and DIY tutorials for performing a range of bioinformatics analyses, from functional enrichment analysis to PPI network analysis, enabling researchers to derive meaningful insights from biological data.
+- 3. Bioinformatics Project Walkthroughs: This section showcases in-depth project walkthroughs, demonstrating how bioinformatics techniques can be applied to real-world research questions.
+- 4. Bioinformatics Tools and Packages: This section showcases bioinformatics analysis tools and packages for streamlining data processing, analysis, and visualization. 
+- 5. Systems Biology & Metabolic Engineering: This section provides tools and tutorials to model dynamic systems and simulate biological processes.
+- 6. Machine Learning / AIxBIO: This section provides resources to evaluate models, optimize performance, and compare algorithms for bioinformatics applications.
 
 # 🧬 Programming For Bioinformatics 
 Programming is at the heart of bioinformatics. This section provides tutorials, and articles, on essential skills to help biologists build strong programming foundations and effectively apply computational methods to solve biological problems.
@@ -43,6 +50,7 @@ This section showcases bioinformatics analysis tools and packages for streamlini
 
 - [SmallSeqFlow](https://github.com/evanpeikon/SmallSeqFlow): A streamlined, notebook-based RNA-seq analysis pipeline optimized for small-sample studies.
 - [PhysioNexus](https://github.com/evanpeikon/PhysioNexus): PhysioNexus maps complex cause-and-effect relationships between time-series physiological variables using Granger causality to transform data into interpretable networks of system interactions.
+- [BiophysicsExpert](https://github.com/evanpeikon/biophysics_expert): BiophysicsExpert is an educational tool that provides users with a searchable database of over 150 biophysics formulas, allowing them to quickly find equations based on known variables or desired unknowns.
 
 # 🧬 Systems Biology & Metabolic Engineering
 Systems biology focuses on understanding complex biological networks. This section provides tools and tutorials to model dynamic systems and simulate biological processes.
@@ -55,7 +63,7 @@ Systems biology focuses on understanding complex biological networks. This secti
 - [Modeling Predator-Prey Dynamics](https://decodingbiology.substack.com/p/modeling-predator-prey-dynamics): Learn how to use the Lotka-Volterra model to understanding the dynamic interactions between species within an ecosystem.
 - [Bistability and Hysteresis in Biological Systems](https://decodingbiology.substack.com/p/bistability-and-hysteresis-in-biological): Learn about the concepts of bistability and hysteresis, and their practical relevance in modeling cellular behavior. 
 
-# 🧬 Machine Learning
+# 🧬 Machine Learning / AIxBIO
 Machine learning offers powerful tools for analyzing and interpreting biological data. This section provides resources to evaluate models, optimize performance, and compare algorithms for bioinformatics applications.
 
 - [Evaluating Machine Learning Models In Biology](https://github.com/evanpeikon/Evaluating_ML_Biology/tree/main): A biotechnologist's guide to evaluating machine learning algorithms and using resampling methods like cross-validation to assess model performance (with practical examples). 
