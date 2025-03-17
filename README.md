@@ -2,12 +2,12 @@
 This repository is a central hub for bioinformatics tutorials, project guides, tools, and articles I've created. It houses a growing collection of resources I've developed to make bioinformatics more approachable and accessible. Whether you’re a beginner learning the basics or a researcher exploring more complex analyses, these resources are designed to help you navigate the world of bioinformatics, computational biology, and systems biology. 
 
 This repository is broken into six sections sections:
-- 1. Programming For Bioinformatics: This section provides tutorials and articles on essential skills to help biologists build strong programming foundations and effectively apply computational methods to solve biological problems.
-- 2. Bioinformatics Analysis Tutorials: This section contains detailed guides and DIY tutorials for performing a range of bioinformatics analyses, from functional enrichment analysis to PPI network analysis, enabling researchers to derive meaningful insights from biological data.
-- 3. Bioinformatics Project Walkthroughs: This section showcases in-depth project walkthroughs, demonstrating how bioinformatics techniques can be applied to real-world research questions.
-- 4. Bioinformatics Tools and Packages: This section showcases bioinformatics analysis tools and packages for streamlining data processing, analysis, and visualization. 
-- 5. Systems Biology & Metabolic Engineering: This section provides tools and tutorials to model dynamic systems and simulate biological processes.
-- 6. Machine Learning / AIxBIO: This section provides resources to evaluate models, optimize performance, and compare algorithms for bioinformatics applications.
+  - 1. ```Programming For Bioinformatics```: This section provides tutorials and articles on essential skills to help biologists build strong programming foundations and effectively apply computational methods to solve biological problems.
+  - 2. ```Bioinformatics Analysis Tutorials```: This section contains detailed guides and DIY tutorials for performing a range of bioinformatics analyses, from functional enrichment analysis to PPI network analysis, enabling researchers to derive meaningful insights from biological data.
+  - 3. ```Bioinformatics Project Walkthroughs```: This section showcases in-depth project walkthroughs, demonstrating how bioinformatics techniques can be applied to real-world research questions.
+  - 4. ```Bioinformatics Tools and Packages```: This section showcases bioinformatics analysis tools and packages for streamlining data processing, analysis, and visualization. 
+  - 5. ```Systems Biology & Metabolic Engineering```: This section provides tools and tutorials to model dynamic systems and simulate biological processes.
+  - 6. ```Machine Learning / AIxBIO```: This section provides resources to evaluate models, optimize performance, and compare algorithms for bioinformatics applications.
 
 # 🧬 Programming For Bioinformatics 
 Programming is at the heart of bioinformatics. This section provides tutorials, and articles, on essential skills to help biologists build strong programming foundations and effectively apply computational methods to solve biological problems.
