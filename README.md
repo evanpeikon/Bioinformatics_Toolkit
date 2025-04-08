@@ -30,6 +30,7 @@ This section contains detailed guides and DIY tutorials for performing a range o
 - [From Genes to Networks: Uncovering Biological Insights through Protein-Protein Interactions](https://github.com/evanpeikon/PPI_Network_Analysis): This tutorial walks you through mapping DEGs to PPI networks, identifying hubs, and simulating genetic circuits to uncover biological insights.
 - [Unraveling Gene Co-Expression Networks: Insights into Transcriptional Regulation](https://github.com/evanpeikon/co_expression_network): Learn how to construct and interpret gene co-expression networks to investigate transcriptional regulation in this practical guide.
 - [BLAST - The Biological Search Engine](https://github.com/evanpeikon/BLAST): This resource covers BLAST tools for sequence alignment, offering practical examples for identifying homologous sequences.
+- [Beyond Averages: Understanding Cell-Type Specific Adaptations with Single-Cell RNA Sequencing](https://github.com/evanpeikon/scRNA-seq-guide): This tutorial will teach you how work with scRNA-seq data, including unique aspects of data processing specific to these analyses, as well as how to identify genes that are differentially expressed between cell-types, or across experimental conditions within a given cell type.
 - [Identifying and Visualizing Marker Genes with ScanPy](https://github.com/evanpeikon/scRNA-Seq-ScanPy): A step-by-step guide to analyzing single-cell RNA-seq data and identifying marker genes using ScanPy.
 
 ### Articles / Additional Resources
