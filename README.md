@@ -74,3 +74,8 @@ Machine learning offers powerful tools for analyzing and interpreting biological
   - [Evaluation Metrics For Classification Problems](https://github.com/evanpeikon/machine-learning/tree/main/Classification-Metrics): A non-biology specific guide to evaluating classification models (companion piece to the article above). 
 - [Comparing Machine Learning Algorithms: Spot Checking For Regression and Classificaiton Problems](https://github.com/evanpeikon/Machine-Learning/tree/main/spot_checking): Learn how to spot-check regression and classification models to identify the best-performing algorithm for your data.
 - [Introduction To Hyperparameter Optimization](https://github.com/evanpeikon/Machine-Learning/tree/main/hyperparameter_optimization): Master hyperparameter tuning to optimize model performance and achieve better results.
+
+### Articles / Additional Resources
+- [Machine Learning: The Native Language of Biology](https://decodingbiology.substack.com/p/machine-learning-the-native-language)
+
+
