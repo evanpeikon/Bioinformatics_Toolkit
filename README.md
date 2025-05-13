@@ -62,7 +62,8 @@ Systems biology focuses on understanding complex biological networks. This secti
 - [The Biology Network](https://decodingbiology.substack.com/p/the-biology-network): Learn how static and dynamic network models can be used simulate and analyze biological systems, from metabolic pathways to regulatory circuits.
 - [Leveraging Network Analysis For Drug Target Discovery](https://decodingbiology.substack.com/p/leveraging-network-analysis-for-drug): Explore the role of network analysis in identifying potential drug targets.
 - [Modeling Predator-Prey Dynamics](https://decodingbiology.substack.com/p/modeling-predator-prey-dynamics): Learn how to use the Lotka-Volterra model to understanding the dynamic interactions between species within an ecosystem.
-- [Bistability and Hysteresis in Biological Systems](https://decodingbiology.substack.com/p/bistability-and-hysteresis-in-biological): Learn about the concepts of bistability and hysteresis, and their practical relevance in modeling cellular behavior. 
+- [Bistability and Hysteresis in Biological Systems](https://decodingbiology.substack.com/p/bistability-and-hysteresis-in-biological): Learn about the concepts of bistability and hysteresis, and their practical relevance in modeling cellular behavior.
+- [Numerical Methods in Systems Biology: From Euler to Runge-Kutta](https://decodingbiology.substack.com/p/numerical-methods-in-systems-biology): How to model gene regulatory networks using numerical methods, including Euler's Method and Fourth-Order Runge Kutta Methods. 
 
 # 🧬 Machine Learning / AIxBIO
 Machine learning offers powerful tools for analyzing and interpreting biological data. This section provides resources to evaluate models, optimize performance, and compare algorithms for bioinformatics applications.
