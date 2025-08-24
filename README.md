@@ -35,6 +35,7 @@ This section contains detailed guides and DIY tutorials for performing a range o
 - [Identifying and Visualizing Marker Genes with ScanPy](https://github.com/evanpeikon/scRNA-Seq-ScanPy): A step-by-step guide to analyzing single-cell RNA-seq data and identifying marker genes using ScanPy.
 
 ### Articles / Additional Resources
+- [Time: The Fourth Dimension in Multiomics Data Analysis](https://sequenceanddestroy.substack.com/p/multiomics-data-in-4d): Incorporating time-dependent relationships in multi-omics data analysis.  
 - [Connecting the Dots: A Guide to Multi-Omics Data](https://sequenceanddestroy.substack.com/p/connecting-the-dots-a-guide-to-multi): Understanding the interrelationships between genomic, epigenomic, transcriptomic, proteomic, metabolomic, phenomic, and stimulus data
 - [Understanding Mutual Information in Bioinformatics](https://sequenceanddestroy.substack.com/p/understanding-mutual-information): A Deep Dive into Entropy, Mutual Information, and Their Application in Gene Expression Analysis
 - [Multi-Omics Analysis Unveils the Hidden Patterns of Gene Expression Control](https://sequenceanddestroy.substack.com/p/multi-omics-analysis-unveils-the): Exploring cell's regulatory logic, revealing how organisms achieve precise control over their molecular machinery.
@@ -66,7 +67,8 @@ Systems biology focuses on understanding complex biological networks. This secti
 - [Bistability and Hysteresis in Biological Systems](https://sequenceanddestroy.substack.com/p/bistability-and-hysteresis-in-biological): Learn about the concepts of bistability and hysteresis, and their practical relevance in modeling cellular behavior.
 - [Numerical Methods in Systems Biology: From Euler to Runge-Kutta](https://sequenceanddestroy.substack.com/p/numerical-methods-in-systems-biology): How to model gene regulatory networks using numerical methods, including Euler's Method and Fourth-Order Runge Kutta Methods.
 - [Computational Modeling of Branched Pathway Systems](https://sequenceanddestroy.substack.com/p/computational-modeling-of-branched): A DIY to Modeling Branched Pathway Systems With A Case Study In Metabolic Engneering
-
+- [Information Theory Gets to The Heart of Biometric Analysis](https://sequenceanddestroy.substack.com/p/information-theory-gets-to-the-heart): Using Mutual Information, Granger Causality, and Transfer Entropy To Understand Causality In Time-Series Biometric Data
+- [Breaking Biometric Babel](https://sequenceanddestroy.substack.com/p/breaking-biometric-babel): Making sense of time-series physiological data with PhysioNexus, an open-source tool that transforms complex data into intuitive network visualizations showing cause-and-effect relationships.
 
 # 🧬 Machine Learning / AIxBIO
 Machine learning offers powerful tools for analyzing and interpreting biological data. This section provides resources to evaluate models, optimize performance, and compare algorithms for bioinformatics applications.
@@ -81,5 +83,9 @@ Machine learning offers powerful tools for analyzing and interpreting biological
 
 ### Articles / Additional Resources
 - [Machine Learning: The Native Language of Biology](https://decodingbiology.substack.com/p/machine-learning-the-native-language)
+- [When Perfect Code Produces Imperfect Science](https://sequenceanddestroy.substack.com/p/when-perfect-code-produces-imperfect): The importance of programming literacy for bioinformaticians and computational biologists in the age of AI. 
+- [From Protein Folds to Protein Folding](https://sequenceanddestroy.substack.com/p/from-protein-folds-to-protein-folding): How reductionism, prediction, and visualization have shaped our understanding of protein's three-dimensional structures and how they arrive in those configurations.
+- [Distributed by Design](https://sequenceanddestroy.substack.com/p/distributed-by-design): Musing about the future of wearable biosensors and the need for distributed sensor networks.
+- [Beyond the Blood Draw](https://sequenceanddestroy.substack.com/p/beyond-the-blood-draw-continuous): Monitoring Blood Lactate Continuously, Non-Invasively, and In Real-Time
 
 
