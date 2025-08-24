@@ -18,11 +18,11 @@ Programming is at the heart of bioinformatics. This section provides tutorials, 
 - [Math For Computational Biology](https://github.com/evanpeikon/math_for_compbio): This repository provides tutorials that cover mathematical concepts foundational to bioinformatics and computational biology (including calculus, ordinary differential equations, and linear algebra), offering a solid preparation for graduate level coursework.
 
 ### Articles / Additional Resources
-- [Catching Silent Errors in Bioinformatics Code with Assert Statements](https://decodingbiology.substack.com/p/catching-silent-errors-in-bioinformatics): Discover how to use assert statements to debug and validate your code, preventing silent errors that can lead to incorrect biological interpretations.
-- [Unit Testing in Bioinformatics: Why It Matters and When to Use It](https://decodingbiology.substack.com/p/unit-testing-in-bioinformatics-why): LEarn to write modular, well-defind, pieces of code that can be verfied and tested before being integrating it into the larger system.
-- [Looping Through Repetitive Tasks](https://decodingbiology.substack.com/p/looping-through-repetitive-tasks): Automating workflows is a critical skill in bioinformatics. This beginner's guide introduces command-line loops to streamline repetitive bioinformatics tasks.
-- [Go On, Git!](https://decodingbiology.substack.com/p/go-on-git): An introduction to version control with Git for bioinformatics.
-- [Algorithms for Wearable Data Science](https://decodingbiology.substack.com/p/algorithms-for-wearable-data-science): An in-depth guide to sliding window methods and two-pointer techniques for analyzing time-series physiological data
+- [Catching Silent Errors in Bioinformatics Code with Assert Statements](https://sequenceanddestroy.substack.com/p/catching-silent-errors-in-bioinformatics): Discover how to use assert statements to debug and validate your code, preventing silent errors that can lead to incorrect biological interpretations.
+- [Unit Testing in Bioinformatics: Why It Matters and When to Use It](https://sequenceanddestroy.substack.com/p/unit-testing-in-bioinformatics-why): LEarn to write modular, well-defind, pieces of code that can be verfied and tested before being integrating it into the larger system.
+- [Looping Through Repetitive Tasks](https://sequenceanddestroy.substack.com/p/looping-through-repetitive-tasks): Automating workflows is a critical skill in bioinformatics. This beginner's guide introduces command-line loops to streamline repetitive bioinformatics tasks.
+- [Go On, Git!](https://sequenceanddestroy.substack.com/p/go-on-git): An introduction to version control with Git for bioinformatics.
+- [Algorithms for Wearable Data Science](https://sequenceanddestroy.substack.com/p/algorithms-for-wearable-data-science): An in-depth guide to sliding window methods and two-pointer techniques for analyzing time-series physiological data
 
 # 🧬 Bioinformatics Analysis Tutorials 
 This section contains detailed guides and DIY tutorials for performing a range of bioinformatics analyses, from functional enrichment analysis to PPI network analysis, enabling researchers to derive meaningful insights from biological data.
@@ -35,9 +35,9 @@ This section contains detailed guides and DIY tutorials for performing a range o
 - [Identifying and Visualizing Marker Genes with ScanPy](https://github.com/evanpeikon/scRNA-Seq-ScanPy): A step-by-step guide to analyzing single-cell RNA-seq data and identifying marker genes using ScanPy.
 
 ### Articles / Additional Resources
-- [Connecting the Dots: A Guide to Multi-Omics Data](https://decodingbiology.substack.com/p/connecting-the-dots-a-guide-to-multi): Understanding the interrelationships between genomic, epigenomic, transcriptomic, proteomic, metabolomic, phenomic, and stimulus data
-- [Understanding Mutual Information in Bioinformatics](https://decodingbiology.substack.com/p/understanding-mutual-information): A Deep Dive into Entropy, Mutual Information, and Their Application in Gene Expression Analysis
-- [Multi-Omics Analysis Unveils the Hidden Patterns of Gene Expression Control](https://decodingbiology.substack.com/p/multi-omics-analysis-unveils-the): Exploring cell's regulatory logic, revealing how organisms achieve precise control over their molecular machinery.
+- [Connecting the Dots: A Guide to Multi-Omics Data](https://sequenceanddestroy.substack.com/p/connecting-the-dots-a-guide-to-multi): Understanding the interrelationships between genomic, epigenomic, transcriptomic, proteomic, metabolomic, phenomic, and stimulus data
+- [Understanding Mutual Information in Bioinformatics](https://sequenceanddestroy.substack.com/p/understanding-mutual-information): A Deep Dive into Entropy, Mutual Information, and Their Application in Gene Expression Analysis
+- [Multi-Omics Analysis Unveils the Hidden Patterns of Gene Expression Control](https://sequenceanddestroy.substack.com/p/multi-omics-analysis-unveils-the): Exploring cell's regulatory logic, revealing how organisms achieve precise control over their molecular machinery.
 
 # 🧬 Bioinformatics Project Walkthroughs
 This section showcases in-depth project walkthroughs, demonstrating how bioinformatics techniques can be applied to real-world research questions.
@@ -59,20 +59,20 @@ Systems biology focuses on understanding complex biological networks. This secti
 
 - [Numerical Methods & Systems Biology Toolkit](https://github.com/evanpeikon/systems_biology): A collection of numerical methods and tools for solving common systems biology problems, from ordinary differential equations to parameter optimization.
 - [An Introduction To Dynamical Systems & Markov Models](https://github.com/evanpeikon/dynamicalsys): A primer on modeling biological systems using dynamical systems and Markov models, with practical examples.
-- [Understanding the SIR Model: A Tool for Modeling Infectious Diseases](https://decodingbiology.substack.com/p/understanding-the-sir-model-a-tool): Learn how to use the SIR model to simulate and understand the spread of infectious diseases.
-- [The Biology Network](https://decodingbiology.substack.com/p/the-biology-network): Learn how static and dynamic network models can be used simulate and analyze biological systems, from metabolic pathways to regulatory circuits.
+- [Understanding the SIR Model: A Tool for Modeling Infectious Diseases](https://sequenceanddestroy.substack.com/p/understanding-the-sir-model-a-tool): Learn how to use the SIR model to simulate and understand the spread of infectious diseases.
+- [The Biology Network](https://sequenceanddestroy.substack.com/p/the-biology-network): Learn how static and dynamic network models can be used simulate and analyze biological systems, from metabolic pathways to regulatory circuits.
 - [Leveraging Network Analysis For Drug Target Discovery](https://decodingbiology.substack.com/p/leveraging-network-analysis-for-drug): Explore the role of network analysis in identifying potential drug targets.
-- [Modeling Predator-Prey Dynamics](https://decodingbiology.substack.com/p/modeling-predator-prey-dynamics): Learn how to use the Lotka-Volterra model to understanding the dynamic interactions between species within an ecosystem.
-- [Bistability and Hysteresis in Biological Systems](https://decodingbiology.substack.com/p/bistability-and-hysteresis-in-biological): Learn about the concepts of bistability and hysteresis, and their practical relevance in modeling cellular behavior.
-- [Numerical Methods in Systems Biology: From Euler to Runge-Kutta](https://decodingbiology.substack.com/p/numerical-methods-in-systems-biology): How to model gene regulatory networks using numerical methods, including Euler's Method and Fourth-Order Runge Kutta Methods.
-- [Computational Modeling of Branched Pathway Systems](https://decodingbiology.substack.com/p/computational-modeling-of-branched): A DIY to Modeling Branched Pathway Systems With A Case Study In Metabolic Engneering
+- [Modeling Predator-Prey Dynamics](https://sequenceanddestroy.substack.com/p/modeling-predator-prey-dynamics): Learn how to use the Lotka-Volterra model to understanding the dynamic interactions between species within an ecosystem.
+- [Bistability and Hysteresis in Biological Systems](https://sequenceanddestroy.substack.com/p/bistability-and-hysteresis-in-biological): Learn about the concepts of bistability and hysteresis, and their practical relevance in modeling cellular behavior.
+- [Numerical Methods in Systems Biology: From Euler to Runge-Kutta](https://sequenceanddestroy.substack.com/p/numerical-methods-in-systems-biology): How to model gene regulatory networks using numerical methods, including Euler's Method and Fourth-Order Runge Kutta Methods.
+- [Computational Modeling of Branched Pathway Systems](https://sequenceanddestroy.substack.com/p/computational-modeling-of-branched): A DIY to Modeling Branched Pathway Systems With A Case Study In Metabolic Engneering
 
 
 # 🧬 Machine Learning / AIxBIO
 Machine learning offers powerful tools for analyzing and interpreting biological data. This section provides resources to evaluate models, optimize performance, and compare algorithms for bioinformatics applications.
 
 - [Evaluating Machine Learning Models In Biology](https://github.com/evanpeikon/Evaluating_ML_Biology/tree/main): A biotechnologist's guide to evaluating machine learning algorithms and using resampling methods like cross-validation to assess model performance (with practical examples).
-- [Evaluation Metrics for Predicting Gene Expression](https://decodingbiology.substack.com/p/evaluation-metrics-for-predicting): A practical guide to evaluating machine learning models in genomics research through the lens of gene regulation.
+- [Evaluation Metrics for Predicting Gene Expression](https://sequenceanddestroy.substack.com/p/evaluation-metrics-for-predicting): A practical guide to evaluating machine learning models in genomics research through the lens of gene regulation.
   - [Evaluation Metrics For Regression Problems](https://github.com/evanpeikon/Machine-Learning/tree/main/Regression-metrics): A non-biology specific guide to evaluating regression models (companion piece to the article above). 
 - [Evaluation Metrics for Biological Classification Problems](https://decodingbiology.substack.com/p/evaluation-metrics-for-biological): A comprehensive guide to evaluating classification models in genomics and biomedical research. 
   - [Evaluation Metrics For Classification Problems](https://github.com/evanpeikon/machine-learning/tree/main/Classification-Metrics): A non-biology specific guide to evaluating classification models (companion piece to the article above). 
