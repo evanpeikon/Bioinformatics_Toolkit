@@ -87,5 +87,6 @@ Machine learning offers powerful tools for analyzing and interpreting biological
 - [From Protein Folds to Protein Folding](https://sequenceanddestroy.substack.com/p/from-protein-folds-to-protein-folding): How reductionism, prediction, and visualization have shaped our understanding of protein's three-dimensional structures and how they arrive in those configurations.
 - [Distributed by Design](https://sequenceanddestroy.substack.com/p/distributed-by-design): Musing about the future of wearable biosensors and the need for distributed sensor networks.
 - [Beyond the Blood Draw](https://sequenceanddestroy.substack.com/p/beyond-the-blood-draw-continuous): Monitoring Blood Lactate Continuously, Non-Invasively, and In Real-Time
+- [Mapping Biology's Dark Matter](https://sequenceanddestroy.substack.com/p/computational-strategies-for-mapping): An in depth guide to working with biological knowledge graphs
 
 
