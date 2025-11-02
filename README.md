@@ -69,6 +69,9 @@ Systems biology focuses on understanding complex biological networks. This secti
 - [Computational Modeling of Branched Pathway Systems](https://sequenceanddestroy.substack.com/p/computational-modeling-of-branched): A DIY to Modeling Branched Pathway Systems With A Case Study In Metabolic Engneering
 - [Information Theory Gets to The Heart of Biometric Analysis](https://sequenceanddestroy.substack.com/p/information-theory-gets-to-the-heart): Using Mutual Information, Granger Causality, and Transfer Entropy To Understand Causality In Time-Series Biometric Data
 - [Breaking Biometric Babel](https://sequenceanddestroy.substack.com/p/breaking-biometric-babel): Making sense of time-series physiological data with PhysioNexus, an open-source tool that transforms complex data into intuitive network visualizations showing cause-and-effect relationships.
+- [Opening The Biometric Black Box](https://sequenceanddestroy.substack.com/p/issue-56-opening-the-biometric-black): Mediation Analysis Deconvolutes Cause-and-Effect Relationships In Time-Series Physiological Data
+- [Mapping Biology's Dark Matter](https://sequenceanddestroy.substack.com/p/computational-strategies-for-mapping): An in depth guide to working with biological knowledge graphs
+
 
 # 🧬 Machine Learning / AIxBIO
 Machine learning offers powerful tools for analyzing and interpreting biological data. This section provides resources to evaluate models, optimize performance, and compare algorithms for bioinformatics applications.
@@ -87,6 +90,9 @@ Machine learning offers powerful tools for analyzing and interpreting biological
 - [From Protein Folds to Protein Folding](https://sequenceanddestroy.substack.com/p/from-protein-folds-to-protein-folding): How reductionism, prediction, and visualization have shaped our understanding of protein's three-dimensional structures and how they arrive in those configurations.
 - [Distributed by Design](https://sequenceanddestroy.substack.com/p/distributed-by-design): Musing about the future of wearable biosensors and the need for distributed sensor networks.
 - [Beyond the Blood Draw](https://sequenceanddestroy.substack.com/p/beyond-the-blood-draw-continuous): Monitoring Blood Lactate Continuously, Non-Invasively, and In Real-Time
-- [Mapping Biology's Dark Matter](https://sequenceanddestroy.substack.com/p/computational-strategies-for-mapping): An in depth guide to working with biological knowledge graphs
+- [The Wolf Of Wetware](https://sequenceanddestroy.substack.com/p/the-wolf-of-wetware): Applying financial training concepts to predictive biology and biosensor analytics
+- [Network Biomarkers Will Define 21st Century Medicine](https://sequenceanddestroy.substack.com/p/network-biomarkers-with-define-21st): Our bodies don't operate as collections of isolated measurements—neither should our biomarkers.
+- [Molecular Moonlighting](https://sequenceanddestroy.substack.com/p/molecular-moonlighting): On Biological Context, Networks, and the Illusion of Molecular Meaning
+
 
 
