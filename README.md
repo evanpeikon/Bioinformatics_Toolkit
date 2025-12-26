@@ -53,6 +53,7 @@ This section showcases bioinformatics analysis tools and packages for streamlini
 
 - [SmallSeqFlow](https://github.com/evanpeikon/SmallSeqFlow): A streamlined, notebook-based RNA-seq analysis pipeline optimized for small-sample studies.
 - [PhysioNexus](https://github.com/evanpeikon/PhysioNexus): PhysioNexus maps complex cause-and-effect relationships between time-series physiological variables using Granger causality to transform data into interpretable networks of system interactions.
+- [CausalEdge](https://github.com/evanpeikon/CausalEdge): A Granger Causality and Mediation Framework for Inferring Direct Causal Networks in Time-Series Proteomics. 
 - [BiophysicsExpert](https://github.com/evanpeikon/biophysics_expert): BiophysicsExpert is an educational tool that provides users with a searchable database of over 150 biophysics formulas, allowing them to quickly find equations based on known variables or desired unknowns.
 
 # 🧬 Systems Biology & Metabolic Engineering
